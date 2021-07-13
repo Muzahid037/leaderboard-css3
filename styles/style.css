@@ -169,5 +169,8 @@ hr{
                 .players , .blogs , .courses{
                     grid-template-columns: repeat(2,1fr);
                 }
-                
+                .course{
+                    width: 90%;
+                    margin-bottom: 10px;
+                 }
             }
